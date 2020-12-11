@@ -1,0 +1,46 @@
+body {
+	background-image: url(https://tse2.mm.bing.net/th?id=OIP.zbt-iTAaEjP-gMIIWsfDrgHaHa&pid=Api&P=0&w=300&h=300);
+background-size: auto;
+background-position: stretch;
+background-repeat: repeat;
+}
+.ggwp {
+background-color: #C7B7C2;
+width:700px;
+padding:20px;
+margin:100px auto;
+align-items: center;
+text-align: center;
+vertical-align: middle;
+border-radius: 30px;
+box-shadow: 0 10PX 30PX rgba(0,0,200,.1);
+
+}
+p {
+font-family: 'Staatliches', cursive;
+font-size: 27px;
+font-weight: bold;
+}
+
+.gj {
+font-family: 'Staatliches', cursive;
+font-size: 40px;
+font-weight: bolder;
+}
+
+a {
+color:black;
+line-height: 1px
+}
+
+ul {
+list-style: none;
+text-align: center;
+padding:0px;
+font-size: 60px;
+}
+
+li {
+display: inline;
+margin: 5px;
+}
